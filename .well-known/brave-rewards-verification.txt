@@ -1,4 +1,0 @@
-This is a Brave Creators publisher verification file.
-
-Domain: abcraft19.github.io
-Token: 8fccad521e657f2a692da8f41bf869a446f089aeeac837b1d585b0fee2d8f72f
